@@ -1,0 +1,21 @@
+# ignore all files
+*
+
+# allow the folders
+!codes/
+!images/
+
+# allow these files
+!codes/spatialtrend_temp_4seasons.py
+!codes/anomalien_era5_prcp.py
+!codes/spatial_correlation_temp_runoff_4seasons_ttest.py
+!codes/trendanalyse_discharge_amudarja.py
+
+!images/anomalien_era5_prcp.png
+!images/Einzugsgebiete.png
+!images/spatial_correlation_temp_runoff_4seasons_ttest.png
+!images/spatialtrend_temp_4seasons.png
+!images/trendanalyse_discharge_amudarja.py
+
+!.gitignore
+!README.md
